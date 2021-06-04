@@ -1,0 +1,13 @@
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\bin\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.exe
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\bin\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.deps.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\bin\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.runtimeconfig.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\bin\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.runtimeconfig.dev.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\bin\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.dll
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\bin\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.pdb
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\obj\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.csprojAssemblyReference.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\obj\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.AssemblyInfoInputs.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\obj\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.AssemblyInfo.cs
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\obj\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.csproj.CoreCompileInputs.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\obj\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.dll
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\obj\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.pdb
+C:\Users\joao.arruda\Desktop\Furquim - C#\TratamentoDeExceção-FRQ9\TratamentoDeExceção-FRQ9\obj\Debug\netcoreapp3.1\TratamentoDeExceção-FRQ9.genruntimeconfig.cache

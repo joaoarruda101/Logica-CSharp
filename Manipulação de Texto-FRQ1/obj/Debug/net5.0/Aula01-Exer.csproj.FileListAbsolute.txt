@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Aula01-Exer\bin\Debug\net5.0\Aula01-Exer.exe
+C:\Users\Admin\source\repos\Aula01-Exer\bin\Debug\net5.0\Aula01-Exer.deps.json
+C:\Users\Admin\source\repos\Aula01-Exer\bin\Debug\net5.0\Aula01-Exer.runtimeconfig.json
+C:\Users\Admin\source\repos\Aula01-Exer\bin\Debug\net5.0\Aula01-Exer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Aula01-Exer\bin\Debug\net5.0\Aula01-Exer.dll
+C:\Users\Admin\source\repos\Aula01-Exer\bin\Debug\net5.0\ref\Aula01-Exer.dll
+C:\Users\Admin\source\repos\Aula01-Exer\bin\Debug\net5.0\Aula01-Exer.pdb
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\Aula01-Exer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\Aula01-Exer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\Aula01-Exer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\Aula01-Exer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\Aula01-Exer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\Aula01-Exer.dll
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\ref\Aula01-Exer.dll
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\Aula01-Exer.pdb
+C:\Users\Admin\source\repos\Aula01-Exer\obj\Debug\net5.0\Aula01-Exer.genruntimeconfig.cache

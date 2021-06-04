@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\bin\Debug\net5.0\Aula3-Exec.exe
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\bin\Debug\net5.0\Aula3-Exec.deps.json
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\bin\Debug\net5.0\Aula3-Exec.runtimeconfig.json
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\bin\Debug\net5.0\Aula3-Exec.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\bin\Debug\net5.0\Aula3-Exec.dll
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\bin\Debug\net5.0\ref\Aula3-Exec.dll
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\bin\Debug\net5.0\Aula3-Exec.pdb
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\Aula3-Exec.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\Aula3-Exec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\Aula3-Exec.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\Aula3-Exec.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\Aula3-Exec.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\Aula3-Exec.dll
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\ref\Aula3-Exec.dll
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\Aula3-Exec.pdb
+C:\Users\Admin\Desktop\Entra21 - AULAS\Aula3-Exec\obj\Debug\net5.0\Aula3-Exec.genruntimeconfig.cache

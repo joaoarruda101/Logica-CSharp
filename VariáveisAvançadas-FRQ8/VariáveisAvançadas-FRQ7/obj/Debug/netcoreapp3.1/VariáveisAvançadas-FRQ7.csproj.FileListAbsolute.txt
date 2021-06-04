@@ -1,0 +1,13 @@
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\bin\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.exe
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\bin\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.deps.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\bin\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.runtimeconfig.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\bin\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.runtimeconfig.dev.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\bin\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.dll
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\bin\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.pdb
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\obj\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.csprojAssemblyReference.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\obj\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.AssemblyInfoInputs.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\obj\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.AssemblyInfo.cs
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\obj\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.csproj.CoreCompileInputs.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\obj\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.dll
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\obj\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.pdb
+C:\Users\joao.arruda\Desktop\Furquim - C#\VariáveisAvançadas-FRQ7\VariáveisAvançadas-FRQ7\obj\Debug\netcoreapp3.1\VariáveisAvançadas-FRQ7.genruntimeconfig.cache

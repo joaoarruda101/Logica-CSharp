@@ -1,0 +1,13 @@
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\bin\Debug\netcoreapp3.1\Aula04 - Exec.exe
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\bin\Debug\netcoreapp3.1\Aula04 - Exec.deps.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\bin\Debug\netcoreapp3.1\Aula04 - Exec.runtimeconfig.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\bin\Debug\netcoreapp3.1\Aula04 - Exec.runtimeconfig.dev.json
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\bin\Debug\netcoreapp3.1\Aula04 - Exec.dll
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\bin\Debug\netcoreapp3.1\Aula04 - Exec.pdb
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\obj\Debug\netcoreapp3.1\Aula04 - Exec.csprojAssemblyReference.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\obj\Debug\netcoreapp3.1\Aula04 - Exec.AssemblyInfoInputs.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\obj\Debug\netcoreapp3.1\Aula04 - Exec.AssemblyInfo.cs
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\obj\Debug\netcoreapp3.1\Aula04 - Exec.csproj.CoreCompileInputs.cache
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\obj\Debug\netcoreapp3.1\Aula04 - Exec.dll
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\obj\Debug\netcoreapp3.1\Aula04 - Exec.pdb
+C:\Users\joao.arruda\Desktop\Furquim - C#\Aula04 - Exec\Aula04 - Exec\obj\Debug\netcoreapp3.1\Aula04 - Exec.genruntimeconfig.cache

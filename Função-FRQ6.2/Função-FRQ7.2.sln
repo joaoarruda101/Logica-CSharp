@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Função-FRQ7.2", "Função-FRQ7.2\Função-FRQ7.2.csproj", "{02138B61-09A9-4475-8E12-0003013B33FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02138B61-09A9-4475-8E12-0003013B33FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02138B61-09A9-4475-8E12-0003013B33FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02138B61-09A9-4475-8E12-0003013B33FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02138B61-09A9-4475-8E12-0003013B33FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1EBB4DB-7D3B-4DFC-99EF-A823AE22B412}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Matrizes-FRQ5/1.0.0": {
+        "runtime": {
+          "Matrizes-FRQ5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrizes-FRQ5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
